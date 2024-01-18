@@ -1,0 +1,34 @@
+table {
+    width: 1050px !important;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.page-wrap {
+    margin-top: 10px;
+}
+
+.page-no {
+    margin: 0 10px;
+}
+
+label select,
+label input {
+    margin: 0px 10px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.page-wrap button{border: 1px solid #ccc;
+    border-radius: 5px;}
